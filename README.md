@@ -1,5 +1,7 @@
 <div align="center">
+
 [![Hi there!, I'm Willy!](assets/header.gif)](https://github.com/SwA91)
+
 </div>
 
 ## 💻 My Tech Stack:
